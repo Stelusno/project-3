@@ -17,4 +17,4 @@ Link https://github.com/Stelusno/project-3
 
 ## User Stories 
 ### As a site visitor I want to be able to navigate around the site, lookup, find, and add movies. 
-## As a site visitor I want to be able to search movies. 
+### As a site visitor I want to be able to search movies. 
