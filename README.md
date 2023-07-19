@@ -2,7 +2,7 @@
 
 ## Fullstack Web Application "Movie Collection"
 
-## Link to app here 
+Link https://github.com/Stelusno/project-3
 
 ## Technologies Used 
 ### Front-end: HTML, CSS, JavaScript
