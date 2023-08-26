@@ -25,7 +25,7 @@ We use PostgreSQL as our database to efficiently store and retrieve movie inform
 Our plans for Movie Collection include the following:
 
 - **Implement search functionality** to make it easier for users to find their favorite movies.
-- **Incorporate Bootstrap** to enhance the user interface and provide a more polished look and feel.
+- **Incorporate additional Bootstrap** to enhance the user interface and provide a more polished look and feel.
 - **Develop a user login and sign-in system** for a personalized experience and the ability to save your movie collection.
 
 ## User Stories
