@@ -1,20 +1,35 @@
-# project-3
+# Movie Collection
 
-## Fullstack Web Application "Movie Collection"
+![Movie Collection Logo](insert_link_to_logo_here)
 
+Movie Collection is a fullstack web application that allows users to browse, find, and add movies to their collection. This README provides an overview of the project, its technologies, user stories, and future plans.
 
-Link https://github.com/Stelusno/project-3
+## Project Link
+[Movie Collection on GitHub](https://github.com/Stelusno/project-3)
 
-## Technologies Used 
-### Front-end: HTML, CSS, JavaScript
-### Backend: Python, Django
-### Database: PostgreSQL
+## Introduction
+Movie Collection is your one-stop destination for managing your movie library. Whether you're an avid cinephile or just looking to keep track of your favorite films, our platform has you covered.
 
-## Stretch Goals 
-### Search Functionality 
-### Bootstraps
-### Login/Sign In 
+## Technologies Used
 
-## User Stories 
-### As a site visitor I want to be able to navigate around the site, lookup, find, and add movies. 
-### As a site visitor I want to be able to search movies. 
+### Front-end
+The front-end of Movie Collection is built with HTML, CSS, and JavaScript, providing an intuitive and responsive user interface.
+
+### Backend
+Our backend is powered by Python and Django, ensuring robust server-side functionality and seamless data management.
+
+### Database
+We use PostgreSQL as our database to efficiently store and retrieve movie information, ensuring a smooth user experience.
+
+## Stretch Goals
+Our plans for Movie Collection include the following:
+
+- **Implement search functionality** to make it easier for users to find their favorite movies.
+- **Incorporate Bootstrap** to enhance the user interface and provide a more polished look and feel.
+- **Develop a user login and sign-in system** for a personalized experience and the ability to save your movie collection.
+
+## User Stories
+- As a site visitor, I want to be able to **easily navigate the site** to discover new movies and manage my collection effortlessly.
+- As a site visitor, I want to **search for movies** to quickly find information about specific films.
+- As a user, I want to **add movies to my collection** so I can keep track of the films I love.
+
