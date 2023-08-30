@@ -1,6 +1,7 @@
 # Movie Collection
 
-![Movie Collection Logo](insert_link_to_logo_here)
+![Movie Collection Logo](https://github.com/Stelusno/project-3/assets/133318849/0465ad48-18ef-4c9c-9149-82e257d64b4a)
+
 
 Movie Collection is a fullstack web application that allows users to browse, find, and add movies to their collection. This README provides an overview of the project, its technologies, user stories, and future plans.
 
